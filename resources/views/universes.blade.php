@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Universes</title>
+</head>
+<body>
+    <h1>Universes</h1>
+    <table border="1" cellpadding="10">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Company</th>
+                <th>Era</th>
+            </tr>
+        </thead>
+        <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>U1</td>
+                        <td>DC</td>
+                        <td>Silvery</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>U2</td>
+                        <td>DC</td>
+                        <td>Golden</td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>U3</td>
+                        <td>DC</td>
+                        <td>Modern</td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>U4</td>
+                        <td>Marvel</td>
+                        <td>Silvery</td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td>U5</td>
+                        <td>Marvel</td>
+                        <td>Modern</td>
+                    </tr>
+                </tbody>
+    </table>
+</body>
+</html>
